@@ -1,0 +1,69 @@
+﻿/* CSS layout */
+body {
+	margin: 0;
+	padding: 0;
+	/*background: linear-gradient(#452e37, #905445);*/
+	background-color: beige;
+	background-size: cover;
+}
+h1{
+	font-family: 'Anime Ace', cursive;
+    font-size: 36px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: #323232;
+}
+
+#masthead {
+	min-width: 600px;
+}
+
+#logo {
+	float: left;
+	width: 200px;
+}
+
+#header {
+	margin-left: 200px;
+}
+
+#container {
+	clear: both;
+	min-width: 600px;
+}
+
+
+#page_content {
+	
+}
+
+#footer {
+	clear: both;
+}
+a{
+	font-family: 'Anime Ace', cursive;
+    font-size: 28px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: #905445;
+    text-decoration: none;
+    margin-left: -120px;
+}
+a:hover{
+	letter-spacing: 0.1em;
+}
+       img:hover {
+            transform: scale(0.9);
+        }
+ h2{
+ 	font-family: 'Anime Ace', cursive;
+    font-size: 28px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: #323232;
+
+ }
+ p {
+    font-family: "Manga Temple", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #905445;
+    font-weight: bold;
+}

@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: linear-gradient(#452e37, #905445);
+}
+header {
+	display: inline-block;
+}
+h1{
+	float: right;
+	margin-left: 450px;
+	font-family: 'Anime Ace', cursive;
+    font-size: 36px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: beige;
+}
+article{
+	margin-left:120px ;
+}
+a{
+	font-family: 'Anime Ace', cursive;
+    font-size: 21px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: beige;
+    text-decoration: none;
+   
+}
+a:hover{
+	letter-spacing: 0.1em;
+}
+       .img:hover {
+            transform: scale(0.9);
+        }
